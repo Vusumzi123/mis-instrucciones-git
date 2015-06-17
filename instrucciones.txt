@@ -1,0 +1,18 @@
+- encontrar directorio con cd dentro de /htdocs
+
+git init //Inicia repositorio de GIT
+
+git status //Estado actual del repositorio
+
+//crear directorio
+
+git add -A //rastrear a todos los archivos dentro del directorio
+
+git commit -m <mensaje> //agrega un mensaje a la operacion como indicador y se hace comit
+
+gitk // abrir interfaz gráfica
+
+git remote add origin https://github.com/Vusumzi123/mis-instrucciones-git.git
+
+git push -u origin master
+
